@@ -1,1 +1,6 @@
-linear-regression.py
+linear_regression.py
+logistic_regression.py
+titanic.csv
+
+__pycache__
+.vscode
